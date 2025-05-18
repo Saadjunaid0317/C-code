@@ -1,0 +1,11 @@
+1. Write a program to create Simple Calculator using switch case.
+2. Write a program print total number of days in a month using switch case.
+3. Develop a four basic mathematical functions calculator that takes input form user and performs any one of the selected operations and displays the result. Use switch case approach to develop this program. Also make use of “goto” statement to continuously take input of the operator, if user enters some unknown operator (other than, +,-, *, /)
+4. Write a Program to take the value from the user as input all sides of a triangle and check whether the triangle is valid or not. Using switch statement
+5. Using switch statement Write a program to input marks of five subjects Physics, Chemistry, Biology, Mathematics and Computer. Calculate percentage and grade according to following:
+Percentage >= 90% : Grade A
+Percentage >= 80% : Grade B
+Percentage >= 70% : Grade C
+Percentage >= 60% : Grade D
+Percentage >= 40% : Grade E
+Percentage < 40% : Grade F
