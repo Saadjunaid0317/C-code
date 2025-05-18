@@ -1,0 +1,6 @@
+1- Write a program that take four floating numbers from keyboard and prints their sum, product and average.
+2- Write a program to calculate the area of the circle, taking the value of the radius from the user.
+3- Write a program that prints to calculate the age in days by using the formula: days = years * 365.
+4- Write a C++ program to convert temperature from degree Celsius to Fahrenheit.
+/* celsius to fahrenheit conversion formula */
+fahrenheit = (celsius * 9 / 5) + 32;
